@@ -4,7 +4,7 @@ local _, mod = ...
 local L = mod.L
 
 -- Core
-L.invasionsAvailable = "|T236292:15:15:0:0:64:64:4:60:4:60|t 有新版本可用！"
+L.invasionsAvailable = "|T236292:15:15:0:0:64:64:4:60:4:60|t 有新入侵發生！"
 L.tooltipClick = "|cffeda55f左鍵點擊|r 拖曳與移動。"
 L.tooltipClickOptions = "|cffeda55f右鍵點擊|r 開啟選項。"
 L.searching = "搜尋中..."
@@ -32,3 +32,4 @@ L.keepMoving = "%s 對你施放，保持移動！"
 L.firePatches = "你正在丟出火屑！移動！"
 L.fireBomb = "炸彈！保持10碼分散！"
 L.ballOnYou = "球在追著你！快跑！"
+L.soakMeteor = "靠近人群！分攤隕石給你的傷害！"
